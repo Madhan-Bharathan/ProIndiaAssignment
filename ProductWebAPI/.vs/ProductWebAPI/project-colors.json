@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aaffc1c6-bbe4-41b7-97be-e0c25284a1f0": {
+      "ProjectGuid": "aaffc1c6-bbe4-41b7-97be-e0c25284a1f0",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 0
+    },
+    "7c3547ad-7125-420c-be64-7589c7e66463": {
+      "ProjectGuid": "7c3547ad-7125-420c-be64-7589c7e66463",
+      "DisplayName": "LogicLayer",
+      "ColorIndex": 1
+    },
+    "c827b7de-488c-48a3-a830-622181d24abc": {
+      "ProjectGuid": "c827b7de-488c-48a3-a830-622181d24abc",
+      "DisplayName": "ProductWebAPI",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

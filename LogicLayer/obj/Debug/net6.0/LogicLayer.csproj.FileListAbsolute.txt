@@ -1,0 +1,15 @@
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\bin\Debug\net6.0\LogicLayer.deps.json
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\bin\Debug\net6.0\LogicLayer.dll
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\bin\Debug\net6.0\ref\LogicLayer.dll
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\bin\Debug\net6.0\LogicLayer.pdb
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\obj\Debug\net6.0\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\obj\Debug\net6.0\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\obj\Debug\net6.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\obj\Debug\net6.0\LogicLayer.AssemblyInfo.cs
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\obj\Debug\net6.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\obj\Debug\net6.0\LogicLayer.csproj.CopyComplete
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\obj\Debug\net6.0\LogicLayer.dll
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\obj\Debug\net6.0\ref\LogicLayer.dll
+C:\Users\Madhan Bharathan\source\repos\LogicLayer\obj\Debug\net6.0\LogicLayer.pdb
