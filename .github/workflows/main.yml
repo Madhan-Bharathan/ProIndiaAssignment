@@ -19,7 +19,6 @@ jobs:
         dotnet-version: 6.0.100
     - name: Restore dependencies
       run: dotnet restore
-      working-directory: ProductWebAPI
     - name: where are we
       run: pwd
     - name: Build
