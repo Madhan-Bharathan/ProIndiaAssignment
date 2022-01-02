@@ -20,6 +20,8 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
       working-directory: ProductWebAPI
+    - name: where are we
+      run: pwd
     - name: Build
       run: dotnet build --no-restore
     - name: Test
