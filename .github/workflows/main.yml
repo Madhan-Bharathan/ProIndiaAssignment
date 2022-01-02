@@ -20,7 +20,7 @@ jobs:
     - name: where are we
       run: pwd
     - name: Restore dependencies
-      run: dotnet restore ./ProductWebAPI.sln
+      run: dotnet restore ProductWebAPI/ProductWebAPI.sln
     - name: Build
       run: dotnet build ProductWebAPI/ProductWebAPI.csproj --configuration Release --no-restore
     - name: Test
