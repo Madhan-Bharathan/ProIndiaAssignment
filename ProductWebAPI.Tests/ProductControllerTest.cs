@@ -17,23 +17,6 @@ namespace ProductWebAPI.Tests
 {
     public class ProductControllerTest
     {
-        //Fakes
-        private readonly IProduct _productService;
-
-        //Dummy Data Generator
-        private readonly Fixture _fixture;
-
-        //System under test
-        private readonly APIProduct_Controller _sut;
-        public ProductControllerTest()
-        {
-            _productService = A.Fake<IProduct>();
-            _sut = new APIProduct_Controller(_productService);
-
-            _fixture = new Fixture();
-        }
-
-
         [Fact]
         public void canChangeProductName()
         {
